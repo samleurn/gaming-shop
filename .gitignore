@@ -1,5 +1,6 @@
 ## Pastas
-node_modules
+node_modules/
+private/
 
 ## Arquivos
 package.json
